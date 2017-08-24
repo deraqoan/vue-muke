@@ -13,4 +13,4 @@
 
 ## 效果
 
-![muke](/image/Screenshot_2017-08-22-22-33-17-821_com.tencent.mo.png)
+![muke](https://github.com/deraqoan/vue-muke/blob/master/image/Screenshot_2017-08-22-22-34-59-272_com.tencent.mo.png)
